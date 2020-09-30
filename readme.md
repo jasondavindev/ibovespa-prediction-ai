@@ -10,3 +10,11 @@
 
 ## Proposta de Solução
 - Correlacionar posts com oscilações no mercado financeiro
+
+## Referências
+
+[Compra e venda de ações: entenda por que o mercado oscila - Nelogica](https://blog.nelogica.com.br/compra-e-venda-de-acoes-entenda-por-que-o-mercado-oscila-2/)
+
+[Veja como se manter atualizado sobre as questões que envolvem o mercado financeiro - Nelogica](http://blog.nelogica.com.br/veja-como-se-manter-atualizado-sobre-as-questoes-que-envolvem-o-mercado-financeiro/)
+
+[O software para o mercado financeiro e sua importância para os traders - Nelogica](http://blog.nelogica.com.br/o-software-para-o-mercado-financeiro-e-sua-importancia-para-os-traders/)
