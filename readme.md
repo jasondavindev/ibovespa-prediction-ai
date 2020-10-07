@@ -47,6 +47,10 @@ Um estudo publicado no First Monday Journal a respeito do volume de Cashtags, re
 A partir disso, a divulgação de notícias por parte das empresas pode alterar o valor das ações: com esse contexto e anúncio em primeira pessoa, as informações podem ser entendidas como fatos realmente relevantes, e o investidor utilizar-se disso como tomada de decisão.
 [Referência](https://propmark.com.br/opiniao/o-sentimento-nas-redes-sociais-e-o-impacto-no-mercado-financeiro/)
 
+![Relação número de tweets e variação de preço de mercado](https://i0.wp.com/assets.propmark.com.br/uploads/2019/09/dd.png?w=737&ssl=1)
+
+[Figura 1 - Relação número de tweets e variação de preço de mercado](https://propmark.com.br/opiniao/o-sentimento-nas-redes-sociais-e-o-impacto-no-mercado-financeiro/)
+
 ## Proposta de Solução
 - Correlacionar posts com oscilações no mercado financeiro
 
