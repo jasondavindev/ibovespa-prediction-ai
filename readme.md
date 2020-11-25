@@ -1,60 +1,47 @@
 # Metodologia de pesquisa científica
 
 ## Problema
-Desde o inicío da abertura das bolsas de valores até os dias de hoje não conseguimos prever ou ter exatidão na oscilação dos papéis de uma empresa dentro do mercado financeiro.
+Desde o inicío da abertura das bolsas de valores até os dias de hoje a especulação é um fator relevante nas oscilações dos preços de ativos/títulos de empresas que tem capital aberto. Porém tais especulações se devem à fatores que são divulgados em diversos meios de comunicação, o que torna difícil o estudo, a análise e por fim a tomada de decisão na hora de se investir no mercado financeiro.
 
 ## Motivação
-- Hoje é muito difícil, ou quase impossível, entender quais os motivos que fazem um papel oscilar na bolsa de valores
-- Não entendendo a motivação da oscilação fica difícil tomar alguma decisão de entrada ou saída em um investimento
-- Mensagens/posts em redes sociais são uma das principais portas de notícias sobre empresas
 
-### A bolsa de valores
-A bolsa de valores é um ambiente de negociação no qual investidores podem comprar ou vender seus títulos emitidos por empresas, sejam elas com capitais públicos, mistos ou privados. Esse processo é intermediado com auxílio de correspondentes de negociações através de corretoras.
-[Referência](https://www.btgpactualdigital.com/blog/investimentos/tudo-sobre-bolsa-de-valores)
+Construir um bem sólido com base em investimentos em fundos, ações ou até mesmo títulos públicos não é um processo trivial. Muitas pessoas investem anos e anos de vida a fim de alcançar sua independência financeira. Um grande exemplo de pessoa que conseguiu este marco, é o investidor Warren Buffett, um investidor americano, filantrópico e CEO da Berkshire Hathaway. Um outro grande exemplo, um brasileiro, o investior Luiz Barsi também conhecido como o "rei da bolsa". Ambos iniciaram sua trajetória para alcançar a independência financeira através de investimentos na bolsa de valores.
 
-### Corretoras
-As corretoras são apenas intermediárias e distribuidoras das ofertas. Sua principal função é executar as ordens que seus clientes pedem. Elas também podem administrar fundos de investimentos que facilitam o acesso dos clientes a produtos que demandam maiores valores para serem comprados e diluem os possíveis riscos por meio de uma administração profissional e diversificação de papeis em seus fundos.
-[Referência](https://andrebona.com.br/entendendo-o-mercado-financeiro-em-6-passos/)
+A bolsa de valores é um ambiente de negociação de ações, fundos imobiliários, BDRs (Brazilian Depositary Receipts) entre outras tipos de investimentos na qual investidores podem comprar, vender e até mesmo alugar títulos emitidos por empresas. Neste ambiente, é possível encontrar empresas com capital público, privado ou misto. Todo o processo de negociação de títulos é intermediado através de corretoras. [Blog - BTG Pactual digital](https://www.btgpactualdigital.com/blog/investimentos/tudo-sobre-bolsa-de-valores)
 
-### Açoes
-Ações são papéis que representam pequenas fatias de uma empresa. Ao comprá-los, na bolsa de valores, o investidor torna-se “sócio” de uma parte ínfima da companhia em questão. Assim, pode até ter direito a dividendos, dependendo da ação.
-[Referência](https://www.btgpactualdigital.com/blog/investimentos/tudo-sobre-bolsa-de-valores)
+Corretoras são intermediadoras e distribuidoras de ofertas e sua principal função é executar ordens de compra ou venda que seus clientes - investidores - solicitam. Corretoras também são responsáveis pela administração de fundos de investimentos na qual demandam maiores valores de aquisição, consequentemente riscos maiores. Esse administração, comumente é feita através de profissinais certificados. [André Bona - Finanças e Investimentos](https://andrebona.com.br/entendendo-o-mercado-financeiro-em-6-passos/)
 
-### Motivações de oscilação
+Um dos tipos de ativos mais conhecidos entre os investidores, são as ações. Ações são "papéis", ou por assim dizer, a menor unidade dentro de uma companhia. Ao comprá-las, o investidor torna-se "sócio" de uma parcela da companhia em questão. Tornando-se proprietário dessa unidade, o investidor garante alguns direitos, como por exemplo, o direito ao voto em assembleias ou até mesmo a participação dos lucros das empresas, também conhecido como dividendos. [Blog - BTG Pactual digital](https://www.btgpactualdigital.com/blog/investimentos/tudo-sobre-bolsa-de-valores)
 
-É importante entender que essa valorização ou depreciação das ações não é um reflexo imediato ou direto da saúde financeira da empresa. Por exemplo: a ação de uma empresa com as contas em dia e faturamento em alta pode estar mais barata do que uma ação de uma empresa altamente endividada.
+É importante ressaltar que a bolsa de valores é um ambiente com muitas especulações. Estas ajudam o valor de ativos se valorizarem ou desvalorizarem. Especulações se devem à diversos movimentos que as empresas tomam na sua gestão. Um exemplo, é quando uma empresa altamente endividada esteja prestes a receber uma oferta de aquisição de uma companhia maior e bem avaliada pelo mercado.
 
-Mas sempre há uma explicação. Nesse caso, é possível que a empresa altamente endividada esteja prestes a receber uma oferta de aquisição de uma companhia maior e bem avaliada pelo mercado.
+Dessa forma investidores especulam sobre o futuro da empresa e logo correm para iniciar suas negociações na bolsa.
 
-Dessa forma, os investidores especulam que aquela empresa vai se valorizar e correm para comprar uma participação no negócio. E diante da concorrência, as ações ficam mais caras.
-[Referência](https://www.btgpactualdigital.com/blog/investimentos/tudo-sobre-bolsa-de-valores)
+A oscilação de ativos não se deve tão somente a especulação, mas também da saúde financeira, da gestão e dos resultados das empresas. [Blog - BTG Pactual digital](https://www.btgpactualdigital.com/blog/investimentos/tudo-sobre-bolsa-de-valores)
 
-### Riscos de investir na bolsa de valores
+A negociação na bolsa envolve os investidores em alguns riscos. O primeiro deles é o chamado risco de liquidez. Basicamente é o risco do investidor não conseguir comprar ou vender seus ativos pois não há uma demanda e procura pelos ativos da companhia em questão. Devido a isso, é importante estar atento às tendências e movimentações no mercado antes de investir.
 
-Há dois principais riscos envolvidos na bolsa de valores. O primeiro deles é o chamado risco de liquidez. Ele é, basicamente, o risco de você não conseguir vender suas ações, caso compre títulos de empresas que são pouco negociadas na bolsa. Por isso, é sempre bom estar atento às tendências e movimentações no mercado antes de investir.
+O outro risco é justamente a desvalorização de um ativo. Um exemplo, é que logo após o investidor fazer a aquisição de alguns ativos de uma companhia, a mesma apresentar fatores que impactam negativamente as suas atividades, assim sendo, desavalorizando os seus títulos. [Blog - BTG Pactual digital](https://www.btgpactualdigital.com/blog/investimentos/tudo-sobre-bolsa-de-valores)
 
-Outro risco é o da desvalorização do ativo: você compra uma ação, a empresa vai mal, as ações caem e você não recupera o investimento.
-[Referência](https://www.btgpactualdigital.com/blog/investimentos/tudo-sobre-bolsa-de-valores)
+Alguns dos principais eventos que levam à oscilação de ativos são, por exemplo, alguma notícia que impacta o mercado como um todo ou no setor que a companhia atua; alguma notícia envolvendos escândalos; divulgação de resultados e balanços; inteferências políticas, interferências ambientais; crises econômicas; crises sociais etc.
 
-<code>A desvalorização pode ser resultado de diversos fatores, por exemplo, alguma notícia que impacta o mercado, alguma notícia que a empresa em si está envolvida em escândalos ou está sendo investigada, divulgação de resultados e balanços, inteferências políticas, interferências ambientais, crises econômicas, crises sociais etc.</code>
+Hoje com o avanço dos meios de comunicação com foco nas redes sociais, as especulações contribuem ainda mais para as oscilações no mercado financeiro.
 
-### Impacto das redes sociais no mercado financeiro
-
-Por conta do grande número de pessoas nas redes sociais e da ascensão dos CASHTAGS, tornou-se muito fácil encontrar informações sobre o mercado financeiro ou determinada empresa no Twitter.
+Por conta do grande número de pessoas nas redes sociais e da ascensão dos CASHTAGS, tornou-se muito fácil encontrar informações sobre o mercado financeiro ou determinada empresa.
 
 Um estudo publicado no First Monday Journal a respeito do volume de Cashtags, relacionado à performance do segmento de ações das empresas Starbucks, TripAdivisor, Firt Solar e Netflix, observou que, em alguns casos, esses elementos estão, de fato, relacionados.
 
-A partir disso, a divulgação de notícias por parte das empresas pode alterar o valor das ações: com esse contexto e anúncio em primeira pessoa, as informações podem ser entendidas como fatos realmente relevantes, e o investidor utilizar-se disso como tomada de decisão.
-[Referência](https://propmark.com.br/opiniao/o-sentimento-nas-redes-sociais-e-o-impacto-no-mercado-financeiro/)
+A partir da divulgação de notícias por parte das empresas, o valor das ações podem ser intensivamente afetados. Informações publicadas podem ser entendidas como fatos realmente relevantes, e o investidor utiliza-se disso como base para a tomada de decisão. [PROPMARK](https://propmark.com.br/opiniao/o-sentimento-nas-redes-sociais-e-o-impacto-no-mercado-financeiro/)
 
 ![Relação número de tweets e variação de preço de mercado](https://i0.wp.com/assets.propmark.com.br/uploads/2019/09/dd.png?w=737&ssl=1)
 
 [Figura 1 - Relação número de tweets e variação de preço de mercado](https://propmark.com.br/opiniao/o-sentimento-nas-redes-sociais-e-o-impacto-no-mercado-financeiro/)
 
 ## Proposta de Solução
-- Correlacionar posts com oscilações no mercado financeiro
 
-## Referências
+O trabalho em questão tem como proposta, utilizar algoritmos de inteligência artificial para desenvolver uma aplicação capaz de interpretar diversos textos presentes em redes sociais, e até mesmo de blogs, fóruns ou jornais digitais. Com base nas interpretações, o algoritmo deve ter a capacidade de identificar e correlacionar notícias que podem caracterizar tendências de alta ou de queda nos valores de ações no mercado brasileiro de ações. Tanto quanto identificar, o objetivo final da aplicação é auxiliar o investidor na sua tomada de decisão.
+
+## Outras referências
 
 [Compra e venda de ações: entenda por que o mercado oscila - Nelogica](https://blog.nelogica.com.br/compra-e-venda-de-acoes-entenda-por-que-o-mercado-oscila-2/)
 
