@@ -41,6 +41,10 @@ A partir da divulgação de notícias por parte das empresas, o valor das açõe
 
 O trabalho em questão tem como proposta, utilizar algoritmos de inteligência artificial para desenvolver uma aplicação capaz de interpretar diversos textos presentes em redes sociais, e até mesmo de blogs, fóruns ou jornais digitais. Com base nas interpretações, o algoritmo deve ter a capacidade de identificar e correlacionar notícias que podem caracterizar tendências de alta ou de queda nos valores de ações no mercado brasileiro de ações. Tanto quanto identificar, o objetivo final da aplicação é auxiliar o investidor na sua tomada de decisão.
 
+## [TODO]
+- Proposta de solução: descrever como eu vou fazer
+- Motivação: arrumar as referência. Deixar no padrão de acordo com a ABNT (olhar nos projetos anexados na matéria)
+
 ## Outras referências
 
 [Compra e venda de ações: entenda por que o mercado oscila - Nelogica](https://blog.nelogica.com.br/compra-e-venda-de-acoes-entenda-por-que-o-mercado-oscila-2/)
