@@ -1,5 +1,7 @@
 # Metodologia de pesquisa científica
 
+**Base: https://github.com/jasondavindev/open-dataplatform
+
 ## Problema
 Desde o inicío da abertura das bolsas de valores até os dias de hoje a especulação é um fator relevante nas oscilações dos preços de ativos/títulos de empresas que tem capital aberto. Porém tais especulações se devem à fatores que são divulgados em diversos meios de comunicação, o que torna difícil o estudo, a análise e por fim a tomada de decisão na hora de se investir no mercado financeiro.
 
